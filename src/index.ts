@@ -7,7 +7,7 @@ async function main() {
   //   data: {
   //     name: "Bulbul",
   //     email: "bulbul2@gmail.com",
-  //     profilePhoto : 'https://bulbul.com/profile/logo.jpg'
+  //     profilePhoto : 'https://bulbul.com/profile/logo.jpg' 
   //   }
   // })
 
